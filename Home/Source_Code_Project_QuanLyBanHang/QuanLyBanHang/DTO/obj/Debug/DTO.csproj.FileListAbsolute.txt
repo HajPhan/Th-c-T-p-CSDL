@@ -1,0 +1,15 @@
+G:\THỰC TẬP CSDL\Source_Code_Project_QuanLyBanHang\QuanLyBanHang\DTO\bin\Debug\DTO.dll
+G:\THỰC TẬP CSDL\Source_Code_Project_QuanLyBanHang\QuanLyBanHang\DTO\bin\Debug\DTO.pdb
+G:\THỰC TẬP CSDL\Source_Code_Project_QuanLyBanHang\QuanLyBanHang\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+G:\THỰC TẬP CSDL\Source_Code_Project_QuanLyBanHang\QuanLyBanHang\DTO\obj\Debug\DTO.dll
+G:\THỰC TẬP CSDL\Source_Code_Project_QuanLyBanHang\QuanLyBanHang\DTO\obj\Debug\DTO.pdb
+E:\CSDL\THỰC TẬP CSDL\Source_Code_Project_QuanLyBanHang\QuanLyBanHang\DTO\bin\Debug\DTO.dll
+E:\CSDL\THỰC TẬP CSDL\Source_Code_Project_QuanLyBanHang\QuanLyBanHang\DTO\bin\Debug\DTO.pdb
+E:\CSDL\THỰC TẬP CSDL\Source_Code_Project_QuanLyBanHang\QuanLyBanHang\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\CSDL\THỰC TẬP CSDL\Source_Code_Project_QuanLyBanHang\QuanLyBanHang\DTO\obj\Debug\DTO.dll
+E:\CSDL\THỰC TẬP CSDL\Source_Code_Project_QuanLyBanHang\QuanLyBanHang\DTO\obj\Debug\DTO.pdb
+E:\THỰC TẬP CSDL\Home\Source_Code_Project_QuanLyBanHang\QuanLyBanHang\DTO\bin\Debug\DTO.dll
+E:\THỰC TẬP CSDL\Home\Source_Code_Project_QuanLyBanHang\QuanLyBanHang\DTO\bin\Debug\DTO.pdb
+E:\THỰC TẬP CSDL\Home\Source_Code_Project_QuanLyBanHang\QuanLyBanHang\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\THỰC TẬP CSDL\Home\Source_Code_Project_QuanLyBanHang\QuanLyBanHang\DTO\obj\Debug\DTO.dll
+E:\THỰC TẬP CSDL\Home\Source_Code_Project_QuanLyBanHang\QuanLyBanHang\DTO\obj\Debug\DTO.pdb
